@@ -12,3 +12,5 @@ It consists of:
 </ul>
 
 While the <strong>BADA Model Specifications</strong> and <strong>pyBADA</strong> are publicly accessible, the access to the <strong>BADA Aircraft Performance Datasets</strong> is subject to the conclusion of a licence agreement with EUROCONTROL.
+
+**Detailed instructions for submitting a request for a BADA Aircraft Performance Datasets licence can be found on the official [BADA website](https://www.eurocontrol.int/model/bada)**
